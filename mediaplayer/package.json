@@ -1,0 +1,13 @@
+{
+  "name": "@juanr-yes/platzimediaplayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/MediaPlayer.js",
+  "scripts": {
+    "build": "tsc --outDir lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Juan Reyes <reyjun4@gmail.com>",
+  "license": "MIT"
+}
